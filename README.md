@@ -10,6 +10,8 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  The dataset is or
 ![Architecture croped](https://user-images.githubusercontent.com/58482510/116966832-a5cf5180-acce-11eb-8a89-28ba4388257f.jpg)
 
 **Team members:**
+1. [Gaurav6420](https://github.com/Gaurav6420/)
 
-1 **[NehaBhujbal222](https://github.com/nehabhujbal222)**
+1 [NehaBhujbal222](https://github.com/nehabhujbal222)
+
 2 [Zuber]()
