@@ -11,5 +11,5 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  The dataset is or
 
 **Team members:**
 
-1 [NehaBhujbal222](https://github.com/nehabhujbal222)
+1 **[NehaBhujbal222](https://github.com/nehabhujbal222)**
 2 [Zuber]()
