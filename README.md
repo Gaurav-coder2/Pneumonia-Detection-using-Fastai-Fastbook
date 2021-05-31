@@ -7,7 +7,8 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  The dataset is or
 
 **Architecture:**
 
-![Architecture croped](https://user-images.githubusercontent.com/58482510/116966832-a5cf5180-acce-11eb-8a89-28ba4388257f.jpg)
+![Architecture croped]()![Architecture final](https://user-images.githubusercontent.com/58482510/120191578-ba542a80-c237-11eb-9728-7b6c0d2949cd.jpg)
+
 
 **Team members:**
 1. [Zuber]()
