@@ -6,8 +6,7 @@ Pneumonia is a life-threatening infectious disease affecting one or both lungs i
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
 
 **Architecture:**
-
-![Architecture croped]()![Architecture final](https://user-images.githubusercontent.com/58482510/120191578-ba542a80-c237-11eb-9728-7b6c0d2949cd.jpg)
+[Architecture final](https://user-images.githubusercontent.com/58482510/120191578-ba542a80-c237-11eb-9728-7b6c0d2949cd.jpg)
 
 
 **Team members:**
