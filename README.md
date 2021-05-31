@@ -9,6 +9,11 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  The dataset is or
 
 ![Architecture final](https://user-images.githubusercontent.com/58482510/120191578-ba542a80-c237-11eb-9728-7b6c0d2949cd.jpg)
 
+**Code:**
+
+[pneumonia_detection.pdf](https://github.com/Gaurav6420/Pneumonia-Detection-using-Fastai-Fastbook/files/6570225/pneumonia_detection.pdf)
+
+
 
 **Team members:**
 1. [Zuber]()
