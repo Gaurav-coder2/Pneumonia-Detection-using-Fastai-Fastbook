@@ -11,7 +11,7 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  The dataset is or
 
 **Code:**
 
-[pneumonia_detection.pdf](https://github.com/Gaurav6420/Pneumonia-Detection-using-Fastai-Fastbook/files/6570225/pneumonia_detection.pdf)
+![pneumonia_detection.pdf](https://github.com/Gaurav6420/Pneumonia-Detection-using-Fastai-Fastbook/files/6570225/pneumonia_detection.pdf)
 
 
 
