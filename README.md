@@ -15,6 +15,7 @@ This is the link of the google colab code in pdf fromat in case the .ipynb does 
 [pneumonia_detection.pdf](https://github.com/Gaurav6420/Pneumonia-Detection-using-Fastai-Fastbook/files/6570225/pneumonia_detection.pdf)
 
 
+**Results:** We achieved an accuracy of 99.99% in this work.
 
 **Team members:**
 1. [Zuber]()
